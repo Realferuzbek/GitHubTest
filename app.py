@@ -1,2 +1,2 @@
-print("Hello GitHub, this is my first update!")
+print("Hello GitHub, GUI way")
 
