@@ -1,2 +1,3 @@
-print("Hello GitHub, GUI way")
+print("Hello GitHub, GUI ways")
+print("Hi, everybody")
 
